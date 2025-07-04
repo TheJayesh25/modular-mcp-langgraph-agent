@@ -1,0 +1,9 @@
+{
+    "text": {
+        "command": "python",
+        "args": [
+            "./mcp_servers/text_server.py"
+        ],
+        "transport": "stdio"
+    }
+}
